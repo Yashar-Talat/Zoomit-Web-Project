@@ -1,0 +1,59 @@
+
+<i class="fa-solid fa-magnifying-glass"></i>
+
+
+<i class="fa-regular fa-share-nodes"></i>
+
+
+<i class="fa-light fa-user"></i>
+
+
+<i class="fa-brands fa-instagram"></i>
+
+
+<i class="fa-brands fa-square-instagram"></i>
+
+
+<i class="fa-brands fa-telegram"></i>
+
+
+<i class="fa-regular fa-fire"></i>
+
+
+<i class="fa-solid fa-caret-up"></i>
+
+
+<i class="fa-solid fa-circle-up"></i>
+
+
+<i class="fa-regular fa-angle-up"></i>
+
+
+<i class="fa-solid fa-caret-down"></i>
+
+
+<i class="fa-solid fa-angle-down"></i>
+
+
+<i class="fa-regular fa-angle-down"></i>
+
+
+<i class="fa-duotone fa-rectangle-ad"></i>
+
+
+<i class="fa-regular fa-angle-right"></i>
+
+
+<i class="fa-solid fa-angle-right"></i>
+
+
+<i class="fa-regular fa-chevron-left"></i>
+
+
+<i class="fa-solid fa-angle-left"></i>
+
+
+<i class="fa-regular fa-envelope"></i>
+
+
+<i class="fa-solid fa-fire-flame-curved"></i>
