@@ -332,7 +332,7 @@ li {
 
 .insta-caption {
   width: calc(663.66px / 2);
-  height: calc(100% / 3);
+  /* height: calc(100% / 3); */
   position: absolute;
 }
 
@@ -362,7 +362,7 @@ li {
 
 .phone-insta-caption {
   width: calc(663.66px / 2);
-  height: calc(100% / 3);
+  /* height: calc(100% / 3); */
   position: absolute;
 }
 
