@@ -13,3 +13,11 @@ function validForm() {
         alert(error);
     }
 }
+function showMenu() {
+    var menu = document.getElementById("menu");
+    if (menu.className === "menu-bar") {
+        menu.className += "show";
+    } else {
+        menu.className = "menu-bar";
+    }
+}
