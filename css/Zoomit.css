@@ -39,9 +39,6 @@ a {
   transition: all 0.3s ease-out;
 }
 
-/* a:hover {
-  color: #ffffff;
-} */
 li {
   list-style-type: none;
   font-weight: 400;
